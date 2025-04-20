@@ -1,1 +1,2 @@
-DL pracs, CSV dataset is for prac 1
+- DL pracs
+- CSV dataset is for prac 1
