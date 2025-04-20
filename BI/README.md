@@ -1,2 +1,4 @@
-BI Pracs
-Just follow the instructions in the manual.
+- BI Pracs
+- Just follow the instructions in the manual.
+- user data for prac 5
+- loans data for prac 6
