@@ -1,2 +1,1 @@
-CI Pracs
-content and style images are for prac 6
+CI Pracs, content and style images are for prac 6
