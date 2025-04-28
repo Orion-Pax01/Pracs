@@ -1,1 +1,2 @@
-https://github.com/gaikwadshantanu12/adypsoe_aids
+- https://github.com/gaikwadshantanu12/adypsoe_aids
+- https://chatgpt.com/share/680fcacd-2b28-8003-b565-c74803c9c40d
